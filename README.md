@@ -1,16 +1,47 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Project Description
 
-Currently, two official plugins are available:
+AI News Summarizer is a modern web application that helps users quickly understand news articles by generating short and meaningful summaries. The platform is designed to simplify information consumption by presenting important news highlights in a concise format.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates the use of React for building dynamic user interfaces along with HTML, CSS, and JavaScript to create a responsive and user-friendly web application. Users can easily browse news content and view summarized information without reading lengthy articles.
 
-## React Compiler
+The application focuses on delivering a clean UI, fast performance, and an intuitive user experience, making it easier for users to stay updated with current news.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Features
 
-## Expanding the ESLint configuration
+📰 Fetch real-time news using API integration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✂️ Generate concise summaries of news articles
+
+⚡ AI-based advanced summarization
+
+⚡ Category-based news filtering
+
+⚡ Search functionality
+
+⚡ Dark mode support
+
+⚡ Fast and responsive user interface
+
+📱 Mobile-friendly design
+
+🔄 Dynamic content updates using React
+
+🌐 Clean and modern UI
+
+🛠️ Technologies Used
+
+HTML – Web page structure
+
+CSS – Styling and responsive design
+
+JavaScript – Application logic
+
+React.js – Building reusable UI components
+
+REST API – Fetching real-time news data
+
+🎯 Purpose of the Project
+
+The purpose of this project is to demonstrate how modern frontend technologies can be used to build a responsive web application that improves the way users consume news by providing quick and clear summaries.
